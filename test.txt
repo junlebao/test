@@ -1,3 +1,4 @@
 this is a test file
 test the branch
 git is a very useful tool
+use fast-forword
